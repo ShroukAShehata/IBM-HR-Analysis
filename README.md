@@ -7,3 +7,4 @@ It has 35 features describing each employee’s background and characteristics; 
 Exploratory data analysis is done to understand and determine how these factors relate to workforce attrition. All the analysis and visualization is done using Microsoft Excel.
 
 Then Analysis is translated into a storytelling analytical presentation with all the insights and patterns found and the considerations that will help the company.
+ 
